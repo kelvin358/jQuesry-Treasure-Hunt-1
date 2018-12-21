@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background:black;
+    display:flex;
+    flex-direction:column;
+}
+
+#header{
+    font-size:50px;
+    color:red;
+}
+
+#deckholder{
+    display:flex;
+     justify-content:center;
+}
+
+#deck{
+    width:50%;
+    height:50%;
+}
